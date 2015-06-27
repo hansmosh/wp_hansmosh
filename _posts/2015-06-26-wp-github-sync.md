@@ -21,7 +21,7 @@ As a developer, I love GitHub. Naturally, I wanted to make use of it for maintai
 
 ## How to set it all up It was actually really, really easy. I discovered this neat little Wordpress plugin called 
 
-[Wordpress GitHub Sync][2]. You can probably guess what it does. The installation steps for [installing with the WordPress Dashboard][3] worked flawlessly. Now that I have the plugin setup, I can edit all my posts write on my own computer. I simply push to GitHub and voila. 
+[Wordpress GitHub Sync][2]. You can probably guess what it does. The installation steps for [installing with the WordPress Dashboard][3] worked flawlessly. Now that I have the plugin setup, I can edit all my posts right on my own computer. I simply push to GitHub and voila. 
 ## You can contibute! Now here's what I really want. I want you to help maintain this blog with me. If you read something useful but find something not quite right, fix it! If you learn something from here but can see how it might be confusing for someone else, update it! Let's give it a try right now by editing this page and putting your name on it. This will be especially fun if you're new to GitHub. 
 
 1.  If you don't have a GitHub account yet, make one.
