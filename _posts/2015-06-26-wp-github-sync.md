@@ -39,9 +39,16 @@ Now here's what I really want. I want you to help maintain this blog with me. If
 3.  Navigate to this post. You will be able to find it in the _posts directory.
 4.  Open this file by clicking on it's name in GitHub.
 5.  Edit this file by clicking on the 'Edit this file' pencil in the top right.
-6.  Add your name and GitHub username to the bottom of the list like: \``\` * Chris Brackert 
+6.  Add your name and GitHub username to the bottom of the list like: 
+```
+* Chris Brackert [hansmosh](https:github.com:/hansmosh)
+```
+7. Let's add a good commit message: "Adds 'Chris Brackert' to list of contributors.".
+8. And click 'Commit changes'.
+9. Back at the main page of the project, you'll see a little circular arrow button in the top left for 'Compare, review, create a pull request'. Click that.
+10. On the next page, review your changes, and if you're satisfied click the 'Create pull request' button.
 
-[hansmosh][4] \``\` 7. Let's add a good commit message: "Adds 'Chris Brackert' to list of contributors.". 8. And click 'Commit changes'. 9. Back at the main page of the project, you'll see a little circular arrow button in the top left for 'Compare, review, create a pull request'. Click that. 10. On the next page, review your changes, and if you're satisfied click the 'Create pull request' button. I'll be sure to merge in the change as soon as I get the chance! Thanks you for your conribution. I hope it is the first of many. 
+I'll be sure to merge in the change as soon as I get the chance! Thanks you for your conribution. I hope it is the first of many. 
 
 # Contributors
 
