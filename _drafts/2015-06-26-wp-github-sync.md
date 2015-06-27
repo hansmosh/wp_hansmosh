@@ -43,9 +43,12 @@ Let's give it a try right now by editing this page and putting your name on it. 
 ```
 *   Chris Brackert [hansmosh](https:github.com:/hansmosh)
 ```
-7. Let's add a good commit message: "Adds 'Chris Brackert' to list of contributors".
+7. Let's add a good commit message: "Adds 'Chris Brackert' to list of contributors.".
 8. And click 'Commit changes'.
 9. Back at the main page of the project, you'll see a little circular arrow button in the top left for 'Compare, review, create a pull request'. Click that.
 10. On the next page, review your changes, and if you're satisfied click the 'Create pull request' button.
 
 I'll be sure to merge in the change as soon as I get the chance! Thanks you for your conribution. I hope it is the first of many.
+
+# Contributors
+*   Chris Brackert [hansmosh](https:github.com:/hansmosh)
