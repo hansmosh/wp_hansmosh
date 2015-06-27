@@ -18,7 +18,9 @@ As a developer, I love GitHub. Naturally, I wanted to make use of it for maintai
 
 GitHub is essentially a git hosting service. With git we can easilly keep track of every revision ever made to a project and it's files. It doesn't take a genius to see why that would be beneficial for a blog. Expecially one in which the content should be updated often, as new technologies and strategies are developed. 
 
-### Free public repositories Free is always good. Unlimited free is better. Might as well make a GitHub repository for everything you do. Who knows, maybe someone will stumble across what you're up to and decide to help. 
+### Free public repositories
+
+Free is always good. Unlimited free is better. Might as well make a GitHub repository for everything you do. Who knows, maybe someone will stumble across what you're up to and decide to help. 
 
 ### Collaboration
 
