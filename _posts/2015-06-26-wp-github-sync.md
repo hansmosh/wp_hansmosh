@@ -40,7 +40,7 @@ Now here's what I really want. I want you to help maintain this blog with me. If
 4.  Open this file by clicking on it's name in GitHub.
 5.  Edit this file by clicking on the 'Edit this file' pencil in the top right.
 6.  Add your name and GitHub username to the bottom of the list like: 
-    * Chris Brackert [hansmosh](https:github.com:hansmosh)
+    * Chris Brackert [hansmosh][4]
 7. Let's add a good commit message: "Adds 'Chris Brackert' to list of contributors.".
 8. And click 'Commit changes'.
 9. Back at the main page of the project, you'll see a little circular arrow button in the top left for 'Compare, review, create a pull request'. Click that.
@@ -50,8 +50,11 @@ I'll be sure to merge in the change as soon as I get the chance! Thanks you for 
 
 # Contributors
 
-* Chris Brackert [hansmosh](https:github.com:hansmosh)
+* Chris Brackert [hansmosh][4]
+* Matt Dodge [mattdodge][5]
 
  [1]: https://github.com/hansmosh/wp_hansmosh
  [2]: https://github.com/benbalter/wordpress-github-sync
  [3]: https://github.com/benbalter/wordpress-github-sync#using-the-wordpress-dashboard
+ [4]: https://github.com/hansmosh
+ [5]: https://github.com/mattdodge
