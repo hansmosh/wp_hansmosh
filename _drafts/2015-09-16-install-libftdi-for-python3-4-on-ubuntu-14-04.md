@@ -4,7 +4,7 @@ post_title: >
   Install libftdi for Python3.4 on Ubuntu
   14.04
 author: hansmosh
-post_date: 2015-09-08 18:33:42
+post_date: 2015-09-16 09:54:03
 post_excerpt: ""
 layout: post
 permalink: http://hansmosh.com/?p=47
@@ -14,7 +14,7 @@ As usual, Adafruit has a great guide but I use Python3.4 and it's not quite work
 
 https://learn.adafruit.com/adafruit-ft232h-breakout/linux-setup
 
-tl:dr Update cmake and replace the `cmake` step with `cmake -DCMAKE_INSTALL_PREFIX="/usr/" -DPYTHON_EXECUTABLE=`which python3.4`" ../`
+tl:dr Update cmake and replace the `cmake` step with `cmake -DCMAKE_INSTALL_PREFIX="/usr/" -DPYTHON_EXECUTABLE="/usr/bin/python3.4" ../`
 
 OK, but how did I figure that out?
 
