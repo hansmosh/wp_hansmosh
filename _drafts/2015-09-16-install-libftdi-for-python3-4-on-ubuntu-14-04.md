@@ -4,7 +4,7 @@ post_title: >
   Install libftdi for Python3.4 on Ubuntu
   14.04
 author: hansmosh
-post_date: 2015-09-16 09:54:03
+post_date: 2015-09-16 09:55:29
 post_excerpt: ""
 layout: post
 permalink: http://hansmosh.com/?p=47
