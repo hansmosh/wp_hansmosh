@@ -4,7 +4,7 @@ post_title: >
   A little git trick for developing in a
   shared environment
 author: hansmosh
-post_date: 2016-03-22 12:46:56
+post_date: 2016-03-22 12:46:59
 post_excerpt: ""
 layout: post
 permalink: http://blog.hansmosh.com/?p=65
