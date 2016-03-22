@@ -1,8 +1,8 @@
 ---
 ID: 65
 post_title: >
-  A Little Git Trick for Developing in a
-  Shared Environment
+  A little Git trick for developing in a
+  shared environment
 author: hansmosh
 post_date: 2016-03-22 12:48:35
 post_excerpt: ""
