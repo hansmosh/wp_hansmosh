@@ -32,7 +32,7 @@ The problem is when you go to commit your code and you see:
 
 On a shared computer, I don't really want to set up any git config with my email and name, especially not globally. But I'm going to do it anyway with the intention of removing the config when I'm done... like that will happen.
 
-*So let's use a cron job to remove the git config for us.* Edit your cron jobs with `crontab -e` and add these two lines somewhere in the file:
+**So let's use a cron job to remove the git config for us.** Edit your cron jobs with `crontab -e` and add these two lines somewhere in the file:
 
     # Periodically remove global git user
     0 5 * * 1 git config --global --remove-section user 
