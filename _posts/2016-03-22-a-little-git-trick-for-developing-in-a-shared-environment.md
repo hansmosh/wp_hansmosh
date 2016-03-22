@@ -4,11 +4,12 @@ post_title: >
   A Little Git Trick for Developing in a
   Shared Environment
 author: hansmosh
-post_date: 2016-03-22 12:47:42
+post_date: 2016-03-22 12:48:35
 post_excerpt: ""
 layout: post
-permalink: http://blog.hansmosh.com/?p=65
-published: false
+permalink: >
+  http://blog.hansmosh.com/a-little-git-trick-for-developing-in-a-shared-environment/
+published: true
 ---
 > tl;dr -- Add `0 5 * * 1 git config --global --remove-section user` to crontab in order to clear globally configured git user every Monday morning.
 
