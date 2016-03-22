@@ -1,15 +1,11 @@
 ---
 ID: 29
 post_title: Syncing this Blog with GitHub
-author:
-  - 'a:1:{i:0;s:8:"hansmosh";}'
-post_date:
-  - 'a:1:{i:0;s:19:"2015-06-26 17:18:14";}'
-post_excerpt:
-  - 'a:1:{i:0;s:0:"";}'
+author: hansmosh
+post_date: 2015-06-26 17:54:51
+post_excerpt: ""
 layout: post
-permalink:
-  - ""
+permalink: http://blog.hansmosh.com/wp-github-sync/
 published: true
 ---
 As a developer, I love GitHub. Naturally, I wanted to make use of it for maintaining [this blog][1].
