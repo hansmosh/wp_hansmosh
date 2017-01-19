@@ -14,7 +14,7 @@ Okay, so you've heard of XBee and how you can use it to bring wireless communi
 *   2 XBee Series 1
 *   1 XBee Explorer USB Board (and USB cable-- make sure the cable is wired up for data in addition to power!)
 *   1 XBee Breakout Board
-*   Power supply, breadboard, sensor, etc... Basically, whatever you want to do to proved 3.3 Volts of pwer to the XBee Breakout Board and whatever analog sensor you've got.
+*   Power supply, breadboard, sensor, etc... Basically, whatever you want to do to provide 3.3 Volts of power to the XBee Breakout Board and whatever analog sensor you've got.
 
 ### Get things installed As is often the case, getting everything installed is often the trickiest part. We'll be reading from the XBee with Python so: 
 
